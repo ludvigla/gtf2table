@@ -1,5 +1,4 @@
 #!/usr/bin/env Rscript
-#hubba
 suppressPackageStartupMessages({
   if (!require("argparse")) install.packages("argparse")
   library(argparse)
